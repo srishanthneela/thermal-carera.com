@@ -1,0 +1,25 @@
+body {
+	margin: 20px;
+	font: 1.5em/1.2 sans-serif;
+	text-align: center;
+}
+
+figure {
+	display: inline-block;
+	vertical-align: top;
+}
+
+figcaption {
+}
+
+video, canvas {
+	width: 650px;
+	height: 550px;
+	background-color: white;
+}
+
+
+
+canvas {
+	image-rendering: pixelated;
+}
